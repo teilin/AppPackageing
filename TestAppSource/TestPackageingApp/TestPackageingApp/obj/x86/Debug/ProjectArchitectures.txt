@@ -1,0 +1,1 @@
+C:\Users\teis\Documents\Projects\TestPackageingApp\TestPackageingApp\TestPackageingApp.csproj;x86
