@@ -16,7 +16,7 @@ Write-Host "Pakking ferdig."
 
 Write-Host "Genererer sertifikat"
 #$exe = $basePath + "makecert"
-#&$exe -a sha1 -sk "peterdn.com" -iv teilin.net.pvk -n "CN=teilin.net" -ic teilin.net.cer -sr currentuser -ss My
+#&$exe -a sha1 -sk "teilin.net" -iv teilin.net.pvk -n "CN=teilin.net" -ic teilin.net.cer -sr currentuser -ss My
 Write-Host "Ferdig å generere sertifikat"
 
 Write-Host "Signerer app pakke..."
